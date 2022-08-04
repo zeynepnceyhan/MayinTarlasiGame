@@ -1,0 +1,17 @@
+C:\Users\zeynep\source\repos\mayınTarlası1\mayınTarlası1\bin\Debug\net6.0-windows\mayınTarlası1.exe
+C:\Users\zeynep\source\repos\mayınTarlası1\mayınTarlası1\bin\Debug\net6.0-windows\mayınTarlası1.deps.json
+C:\Users\zeynep\source\repos\mayınTarlası1\mayınTarlası1\bin\Debug\net6.0-windows\mayınTarlası1.runtimeconfig.json
+C:\Users\zeynep\source\repos\mayınTarlası1\mayınTarlası1\bin\Debug\net6.0-windows\mayınTarlası1.dll
+C:\Users\zeynep\source\repos\mayınTarlası1\mayınTarlası1\bin\Debug\net6.0-windows\mayınTarlası1.pdb
+C:\Users\zeynep\source\repos\mayınTarlası1\mayınTarlası1\obj\Debug\net6.0-windows\mayınTarlası1.csproj.AssemblyReference.cache
+C:\Users\zeynep\source\repos\mayınTarlası1\mayınTarlası1\obj\Debug\net6.0-windows\mayınTarlası1.Form1.resources
+C:\Users\zeynep\source\repos\mayınTarlası1\mayınTarlası1\obj\Debug\net6.0-windows\mayınTarlası1.csproj.GenerateResource.cache
+C:\Users\zeynep\source\repos\mayınTarlası1\mayınTarlası1\obj\Debug\net6.0-windows\mayınTarlası1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynep\source\repos\mayınTarlası1\mayınTarlası1\obj\Debug\net6.0-windows\mayınTarlası1.AssemblyInfoInputs.cache
+C:\Users\zeynep\source\repos\mayınTarlası1\mayınTarlası1\obj\Debug\net6.0-windows\mayınTarlası1.AssemblyInfo.cs
+C:\Users\zeynep\source\repos\mayınTarlası1\mayınTarlası1\obj\Debug\net6.0-windows\mayınTarlası1.csproj.CoreCompileInputs.cache
+C:\Users\zeynep\source\repos\mayınTarlası1\mayınTarlası1\obj\Debug\net6.0-windows\mayınTarlası1.dll
+C:\Users\zeynep\source\repos\mayınTarlası1\mayınTarlası1\obj\Debug\net6.0-windows\refint\mayınTarlası1.dll
+C:\Users\zeynep\source\repos\mayınTarlası1\mayınTarlası1\obj\Debug\net6.0-windows\mayınTarlası1.pdb
+C:\Users\zeynep\source\repos\mayınTarlası1\mayınTarlası1\obj\Debug\net6.0-windows\mayınTarlası1.genruntimeconfig.cache
+C:\Users\zeynep\source\repos\mayınTarlası1\mayınTarlası1\obj\Debug\net6.0-windows\ref\mayınTarlası1.dll
